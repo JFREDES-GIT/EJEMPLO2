@@ -1,5 +1,5 @@
 #+title: Módulo con ejemplos de JEE, JSF y JPA
-#+author: Miguel Piña
+#+author: Jorge Fredes
 #+date: [2017-03-30 jue 08:07]
 
 El presente repositorio contiene ejemplos de diversas tecnologías usadas para
