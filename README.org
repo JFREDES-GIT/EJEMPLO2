@@ -16,7 +16,7 @@ Software. Las tecnologías revisadas y que están dentro de este repositorio son
 
 * Compilando y usando el proyecto
 
-** Preparando la base de datos
+** Preparando la base de datos --- otro cambio
 
 Para poder usar todas las páginas de este proyecto, es necesario crear una base
 de datos llamada *miPrimerBase* en =MySQL=, esto se hace de la siguiente forma:
