@@ -70,7 +70,7 @@ mvn clean install
 
 Eso se encarga de compilarlo e instalarlo en el repositorio local de Maven.
 
-** Ejecutando el proyecto
+** Ejecutando el proyecto --- con el terrible cambio
 
 Para ejecutar el proyecto, en el mismo directorio donde se ejecutó la
 compilación e instalación del proyecto, ejecutar:
